@@ -1,0 +1,26 @@
+id,name,type,x,y,z
+0,Sensor 01,Soil Moisture,8.00,8.00,0.00
+1,Sensor 02,Temperature,22.00,12.00,0.00
+2,Sensor 03,Humidity,38.00,10.00,0.00
+3,Sensor 04,pH Soil,55.00,14.00,0.00
+4,Sensor 05,Light Intensity,78.00,9.00,0.00
+5,Sensor 06,Rainfall,90.00,22.00,0.00
+6,Sensor 07,Soil Nutrient,14.00,31.00,0.00
+7,Sensor 08,Soil Moisture,30.00,35.00,0.00
+8,Sensor 09,Temperature,47.00,32.00,0.00
+9,Sensor 10,Humidity,68.00,38.00,0.00
+10,Sensor 11,pH Soil,86.00,41.00,0.00
+11,Sensor 12,Light Intensity,10.00,54.00,0.00
+12,Sensor 13,Rainfall,25.00,58.00,0.00
+13,Sensor 14,Soil Moisture,44.00,54.00,0.00
+14,Sensor 15,Soil Nutrient,62.00,62.00,0.00
+15,Sensor 16,Temperature,81.00,59.00,0.00
+16,Sensor 17,Humidity,17.00,74.00,0.00
+17,Sensor 18,pH Soil,35.00,78.00,0.00
+18,Sensor 19,Soil Moisture,51.00,75.00,0.00
+19,Sensor 20,Light Intensity,72.00,80.00,0.00
+20,Sensor 21,Rainfall,91.00,76.00,0.00
+21,Sensor 22,Soil Nutrient,12.00,91.00,0.00
+22,Sensor 23,Temperature,32.00,92.00,0.00
+23,Sensor 24,Humidity,58.00,90.00,0.00
+24,Sensor 25,Soil Moisture,84.00,92.00,0.00
